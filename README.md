@@ -4,7 +4,7 @@
 
 # Protocal
 
-  1) Input data is in {dataset} directoty
+  1) Input data is in "dataset" directoty
   2) After editing the script, please replace your changed with the same name of existing file in the script directory.
      Ensure to include a description about the changes.  
   3) If you want to review the changes made after editing, please return to the homepage and click on "Commits".
