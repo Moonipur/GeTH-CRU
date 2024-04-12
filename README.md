@@ -4,7 +4,7 @@
 
 # Protocal
 
-  1) Input data is in "dataset" directoty.
+  1) Input data is in "dataset" directoty. Can download to your local computer.
   2) We have 2 brunches including `main` and `colab-dev`, If you still in develop process can use colab script in `colab-dev` brunch.
   3) After editing the script, please replace your changed with the same name of existing file in the `script` directory.
      Ensure to include a description about the changes.  
